@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 27 21:58:48 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-ec35-340e-00000c541090 
+on database directory /home/nenodias/pywork/notebook/PythonFundamentos/JupyterNotebooks/Capítulo05/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@786c8208 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/nenodias/pywork/notebook/PythonFundamentos/JupyterNotebooks/Capítulo05
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-81-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
